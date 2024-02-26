@@ -21,7 +21,7 @@
 
     **1.** Create Profit and Loss (P&L) reports by _[https://github.com/Sanket-K4nse/Excel-Sales_Analytics/blob/main/P%20%26%20L%20Yearly%20report.pdf)_ & _[Months](https://github.com/Sanket-K4nse/Excel-Sales_Analytics/blob/main/P%20%26%20L%20Monthly%20report.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets]()_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Sanket-K4nse/Excel-Sales_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
